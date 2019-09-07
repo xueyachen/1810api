@@ -1,0 +1,961 @@
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 9
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 12
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+    [XSRF-TOKEN] => eyJpdiI6IkhoV3ZFb0xlZnlyQktUeDRPdHc5K0E9PSIsInZhbHVlIjoiYUh5clZrbXJlaHFlSEh4MFRtSUVmcVB6eE5jQ0YwRFwvXC83M20zbjU5MHRxQXBIY202U2kyNTFKZlwvYlQ3RUczYyIsIm1hYyI6IjY0YTU2NDY2OWI1MzA5ZDUzZTAxYTNjZTY0NTc5YjU3ZGRkODljMTQ0MGZmNDAwYTgzMWVkNjc3MTA1MDZiM2QifQ==
+    [laravel_session] => eyJpdiI6Ikp0NXUzaE9kc01OTmxrUU1aNUtmTFE9PSIsInZhbHVlIjoiQk9xSVd5ZFRTcXYzY0haQWdRdk5GXC94eTlYcUc3VjdxekhKb0FuUWFabyttdkpNNisxSEFGYkR6dzRBZVFkc3MiLCJtYWMiOiI5NDMwZmJjZjAxY2E2MzM4ZDJkOWM4MzZjOWZmNTg4MDQxNWYwY2JhYWJjZDVlNmU4NGQ4NTMxZTVlNWZmYjlhIn0=
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 31
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 36
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 38
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 40
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 42
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 44
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 46
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 48
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 50
+    [call] => publish
+    [name] => aaaa
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 52
+    [call] => publish
+    [name] => aaaa
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 54
+    [call] => publish
+    [name] => aaaa
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 56
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 60
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 65
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 7
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 8
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 11
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 5
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 14
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 28
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 30
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 32
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 1
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 3
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 5
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 8
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc
+    [tcurl] => rtmp://192.168.254.140:1935/xyc
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 10
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 31
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 34
+    [call] => publish
+    [name] => tes
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 36
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 40
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 42
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 44
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 46
+    [call] => publish
+    [name] => tes
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 48
+    [call] => publish
+    [name] => admin
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 51
+    [call] => publish
+    [name] => admin
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 53
+    [call] => publish
+    [name] => admin
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 57
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 59
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 62
+    [call] => publish
+    [name] => admin
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 64
+    [call] => publish
+    [name] => admin
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 66
+    [call] => publish
+    [name] => admin
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 68
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 70
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 1
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [0] => rtmp://192.168.254.140:1935/xyc
+    [1] => username=xyc&pwd=123
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 5
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123Array
+(
+    [0] => rtmp://192.168.254.140:1935/xyc
+    [1] => username=xyc&pwd=123
+)
+rtmp://192.168.254.140:1935/xyc&username=xyc&pwd=123Array
+(
+    [0] => rtmp://192.168.254.140:1935/xyc
+    [1] => username=xyc
+    [2] => pwd=123
+)
+xycArray
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=xyc&pwd=123
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 2
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=admin123&pwd=111111
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=admin123&pwd=111111
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 4
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+Array
+(
+    [app] => xyc
+    [flashver] => FMLE/3.0 (compatible; FMSc/1.0)
+    [swfurl] => rtmp://192.168.254.140:1935/xyc?username=admin123&pwd=111111
+    [tcurl] => rtmp://192.168.254.140:1935/xyc?username=admin123&pwd=111111
+    [pageurl] => 
+    [addr] => 192.168.254.1
+    [clientid] => 6
+    [call] => publish
+    [name] => test
+    [type] => live
+)
+select * from user where username="admin123" and pass="111111"Array
+(
+    [0] => rtmp://192.168.254.140:1935/xyc
+    [1] => username=admin123
+)
+Array
+(
+    [0] => rtmp://192.168.254.140:1935/xyc
+    [1] => username=admin123
+)
+Array
+(
+    [0] => rtmp://192.168.254.140:1935/xyc
+    [1] => username=admin123
+)
+Array
+(
+    [0] => rtmp://192.168.254.140:1935/xyc
+    [1] => username=admin123
+)
+Array
+(
+    [0] => rtmp://192.168.254.140:1935/xyc
+    [1] => username=admin123&pwd=111111
+)
+Array
+(
+    [0] => rtmp://192.168.254.140:1935//192.168.254.140:1935/xyc
+    [1] => username=admin123
+)
